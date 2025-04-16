@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Irish-Noah.github.io/static/css/main.06d04781.css",
+    "main.js": "/Irish-Noah.github.io/static/js/main.c1ae697c.js",
+    "index.html": "/Irish-Noah.github.io/index.html",
+    "main.06d04781.css.map": "/Irish-Noah.github.io/static/css/main.06d04781.css.map",
+    "main.c1ae697c.js.map": "/Irish-Noah.github.io/static/js/main.c1ae697c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d04781.css",
+    "static/js/main.c1ae697c.js"
+  ]
+}
